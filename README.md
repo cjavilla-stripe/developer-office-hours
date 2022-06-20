@@ -1,8 +1,8 @@
 ![Developer Office Hours](./assets/developer-office-hours.png)
 
-# Stripe Developer Video
+# [Stripe Developer Video](https://www.youtube.com/c/StripeDevelopers)
 
-This is the starter template and assets used for the Stripe Developers YouTube
+This is the starter template and assets used for the [Stripe Developers YouTube](https://www.youtube.com/c/StripeDevelopers)
 content. Using the Stripe CLI, you can create a sample and follow along as we
 build.
 
